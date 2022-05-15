@@ -1,5 +1,5 @@
 {
-    "name": "php-amqplib/php-amqplib",
+    "name": "softinvest/php-amqplib",
     "replace": {
         "videlalvaro/php-amqplib": "self.version"
     },
@@ -26,6 +26,10 @@
             "name": "Ramūnas Dronga",
             "email": "github@ramuno.lt",
             "role": "Maintainer"
+        },
+        {
+            "name": "sofinvest",
+            "email": "c@bragin.su"
         }
     ],
     "require": {
