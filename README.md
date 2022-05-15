@@ -1,6 +1,5 @@
 # php-amqplib #
 
-![PHPUnit tests](https://github.com/softinvest/php-amqplib/workflows/PHPUnit%20tests/badge.svg)
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Total Downloads][ico-downloads]][link-downloads]
 [![Software License][ico-license]](LICENSE)
