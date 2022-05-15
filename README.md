@@ -1,11 +1,11 @@
 # php-amqplib #
 
-![PHPUnit tests](https://github.com/php-amqplib/php-amqplib/workflows/PHPUnit%20tests/badge.svg)
+![PHPUnit tests](https://github.com/softinvest/php-amqplib/workflows/PHPUnit%20tests/badge.svg)
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Total Downloads][ico-downloads]][link-downloads]
 [![Software License][ico-license]](LICENSE)
 
-[![codecov](https://codecov.io/gh/php-amqplib/php-amqplib/branch/master/graph/badge.svg?token=tgeYkUsaDM)](https://codecov.io/gh/php-amqplib/php-amqplib)
+[![codecov](https://codecov.io/gh/softinvest/php-amqplib/branch/master/graph/badge.svg?token=tgeYkUsaDM)](https://codecov.io/gh/softinvest/php-amqplib)
 [![Coverage Status][ico-scrutinizer]][link-scrutinizer]
 [![Quality Score][ico-code-quality]][link-code-quality]
 
@@ -381,15 +381,15 @@ Patches are very welcome!
 
 Author: Vadim Zaliva <lord@crocodile.org>
 
-[ico-version]: https://img.shields.io/packagist/v/php-amqplib/php-amqplib.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/softinvest/php-amqplib.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-LGPL_2.1-brightgreen.svg?style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/php-amqplib/php-amqplib.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/php-amqplib/php-amqplib.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/php-amqplib/php-amqplib.svg?style=flat-square
+[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/softinvest/php-amqplib.svg?style=flat-square
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/softinvest/php-amqplib.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/softinvest/php-amqplib.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/php-amqplib/php-amqplib
-[link-scrutinizer]: https://scrutinizer-ci.com/g/php-amqplib/php-amqplib/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/php-amqplib/php-amqplib
-[link-downloads]: https://packagist.org/packages/php-amqplib/php-amqplib
-[link-author]: https://github.com/php-amqplib
+[link-packagist]: https://packagist.org/packages/softinvest/php-amqplib
+[link-scrutinizer]: https://scrutinizer-ci.com/g/softinvest/php-amqplib/code-structure
+[link-code-quality]: https://scrutinizer-ci.com/g/softinvest/php-amqplib
+[link-downloads]: https://packagist.org/packages/softinvest/php-amqplib
+[link-author]: https://github.com/softinvest
 [link-contributors]: ../../contributors
